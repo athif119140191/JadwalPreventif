@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186177757650",
+    "project_id": "jadwalpreventif",
+    "storage_bucket": "jadwalpreventif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186177757650:android:cb43074f7bd81fddc3e80b",
+        "android_client_info": {
+          "package_name": "com.jadwalpreventif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186177757650-4v633mov4o97fiqpc4bd9dc3kssg6248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_cqHb_ATzb7maQr6CTus9uzMq-sNm0us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186177757650-4v633mov4o97fiqpc4bd9dc3kssg6248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
